@@ -30,14 +30,6 @@ The goal of the project is to answer business questions using real-world Airbnb 
 ## Tableau Dashboard
 [View the Tableau Dashboard](https://public.tableau.com/app/profile/anzhelika.ivanova/viz/AirbnbIrelandMarketAnalysis/AirbnbIrelandMarketAnalysis)
 
-## Project Status
-This project is currently in progress.
 
-Completed:
-- Data cleaning with Python
-- Exploratory data analysis
-- Tableau dashboard
 
-In progress:
-- SQL analysis
-- Final GitHub documentation
+

@@ -10,7 +10,7 @@ The goal of the project is to answer business questions using real-world Airbnb 
 - Pandas
 - Matplotlib
 - Tableau Public
-- SQL (in progress)
+- SQL
 
 ## Business Questions
 - Which areas have the highest number of Airbnb listings?
@@ -21,9 +21,9 @@ The goal of the project is to answer business questions using real-world Airbnb 
 - What is the estimated minimum booking cost by area?
 
 ## Key Insights
-- Entire homes and apartments dominate the Irish Airbnb market.
+- 70% of all 25,497 listings are entire homes/apartments, suggesting strong demand from family and group travellers.
 - Airbnb listings are concentrated in a relatively small number of areas.
-- Average prices vary significantly across regions.
+- South East Inner City (€264) is 56% more expensive than the national average (€169), while rural areas average below €130.
 - Geographic analysis shows clear clustering around major cities and tourist destinations.
 - Minimum booking cost can vary strongly depending on both price and minimum stay requirements.
 
